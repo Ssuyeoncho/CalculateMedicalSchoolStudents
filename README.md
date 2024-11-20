@@ -1,3 +1,3 @@
-# calculate_medical_school_students
+# CalculateMedicalSchoolStudents
 project conducted at SKKU
 by 문해걸
