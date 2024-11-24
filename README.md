@@ -1,7 +1,7 @@
 # CalculateMedicalSchoolStudents
 project conducted at SKKU by 문해걸
 ***
-### orginal_version.py
+### original_version.py
 프로그램 최종 코드
 
 
