@@ -12,8 +12,10 @@ project conducted at SKKU by 문해걸
 
 
 ### disease data.xlsx
-supplement.py에서 쓰이는 엑셀 파일.
-(supplememt.py와 동일한 파일에 위치해야만 supplement_py 실행 가능)
+supplement.py에서 쓰이는 엑셀 파일
+
+
+(supplememt.py와 동일한 파일에 위치해야만 supplement.py 실행 가능)
 
 
 
